@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.AssemblyInfo.cs
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Assincrono\bin\Debug\net6.0\Assincrono.exe
+D:\Documents\VSCode\Assincrono\bin\Debug\net6.0\Assincrono.deps.json
+D:\Documents\VSCode\Assincrono\bin\Debug\net6.0\Assincrono.runtimeconfig.json
+D:\Documents\VSCode\Assincrono\bin\Debug\net6.0\Assincrono.dll
+D:\Documents\VSCode\Assincrono\bin\Debug\net6.0\Assincrono.pdb
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.dll
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\refint\Assincrono.dll
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.pdb
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\Assincrono.genruntimeconfig.cache
+D:\Documents\VSCode\Assincrono\obj\Debug\net6.0\ref\Assincrono.dll
